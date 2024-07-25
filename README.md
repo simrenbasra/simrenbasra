@@ -25,7 +25,7 @@ Welcome to my GitHub profile!
 - **Highlights**:
   - Using classess I built to perform model building and data preprocessing for OLS regression.
   - Exploring effects of PCA 
-  - [Link to Sign-Lingual project repository](https://github.com/simrenbasra/OLS_Regression)
+  - [Link to OLS_Regression project repository](https://github.com/simrenbasra/OLS_Regression)
   - 
 ## 🛠 Skills
 - **Programming Languages**: Python, SQL
@@ -33,7 +33,7 @@ Welcome to my GitHub profile!
 - **Data Visualization**: Tableau
 
 ## 🌐 Connect with Me
-- **LinkedIn**:[https://www.linkedin.com/in/simrenbasra/](#)
-- **Email**: [simrenbasra@gmail.com](#)
+- **LinkedIn**:(https://www.linkedin.com/in/simrenbasra/)
+- **Email**: simrenbasra@gmail.com
 
 Feel free to explore my projects and reach out if you’d like to discuss opportunities or collaborate!
