@@ -1,16 +1,40 @@
-## Hi there 👋
+## Hi there, I'm Simren! 👋
 
-<!--
-**simrenbasra/simrenbasra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile. 
+I’m a passionate data scientist with expertise in statistical analysis, machine learning, and data visualization. My goal is to leverage data to solve complex problems and provide actionable insights.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 **Education**: Bachelors Computer Science from University of Sheffield.
+- 💼 **Experience**: Software Engineer/Consultant in FinTech.
+- 🔭 **Current Focus**: Working on a timeseries project using ARIMA and SARIMAX.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 Projects
+
+### [Project 1: Sign-Lingual](#)
+- **Description**: Developed a machine learning interpreter for American Sign Language (ASL). The project involves training and evaluating various models including Logistic Regression (with and without feature extraction), CNNs and Transfer Learning approaches like VGG-16 and ResNet-50, using both the MNIST dataset and real-world images.
+- **Technologies**: Python, TensorFlow, Keras, scikit-learn, Streamlit.
+- **Highlights**:
+  - Transfer Learning: Implemented VGG-16 and ResNet-50 to leverage pre-learnt feautures.
+  - Model Comparison: Evaluated different models including Logistic Regression, CNNs, and Transfer Learning techniques to determine the most effective approach.
+  - Data Augmentation: Enhanced model robustness by introducing noise and variability into the dataset.
+  - Real-World Testing: Assessed models on images captured from real-world images using Teachable Machine.
+  - [(https://github.com/simrenbasra/Sign_Lingual)](#)
+
+### [Project 2: OLS Regression](#)
+- **Description**:  Implemented an Ordinary Least Squares (OLS) regression model to predict price of cars. Includes data preprocessing, model building and performance evaluation.
+- **Technologies**: Python, pandas, statsmodels, matplotlib, seaborn.
+- **Highlights**:
+  - Using classess I built to perform model building and data preprocessing for OLS regression.
+  - Exploring effects of PCA 
+  - [(https://github.com/simrenbasra/OLS_Regression)](#)
+
+## 🛠 Skills
+- **Programming Languages**: Python, SQL
+- **Big Data**: Hadoop, Spark, AWS
+- **Data Visualization**: Tableau
+
+## 🌐 Connect with Me
+- **LinkedIn**:[(https://www.linkedin.com/in/simrenbasra/)](#)
+- **Email**: [simrenbasra@gmail.com](#)
+
+Feel free to explore my projects and reach out if you’d like to discuss opportunities or collaborate!
