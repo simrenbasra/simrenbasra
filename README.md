@@ -2,6 +2,9 @@
 
 Welcome to my GitHub profile! 
 
+I’m passionate about data science and love diving into data to uncover insights and tackle challenging problems.
+I work with statistical analysis, machine learning and data visualization techniques. Check out my projects to see how I’m using these skills!
+
 ## 🚀 About Me
 - 🎓 **Education**: Bachelors Computer Science from University of Sheffield.
 - 💼 **Experience**: Software Engineer/Consultant in FinTech.
@@ -30,7 +33,7 @@ Welcome to my GitHub profile!
 ## 🛠 Skills
 - **Programming Languages**: Python, SQL
 - **Big Data**: Hadoop, Spark, AWS
-- **Data Visualization**: Tableau
+- **Data Visualisation**: Tableau
 
 ## 🌐 Connect with Me
 - **LinkedIn**:[Simren Basra](https://www.linkedin.com/in/simrenbasra/)
