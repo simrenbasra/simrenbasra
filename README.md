@@ -1,7 +1,6 @@
 ## Hi there, I'm Simren! 👋
 
-Welcome to my GitHub profile. 
-I’m a passionate data scientist with expertise in statistical analysis, machine learning, and data visualization. My goal is to leverage data to solve complex problems and provide actionable insights.
+Welcome to my GitHub profile! 
 
 ## 🚀 About Me
 - 🎓 **Education**: Bachelors Computer Science from University of Sheffield.
