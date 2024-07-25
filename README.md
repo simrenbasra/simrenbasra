@@ -17,7 +17,7 @@ Welcome to my GitHub profile!
   - Model Comparison: Evaluated different models including Logistic Regression, CNNs, and Transfer Learning techniques to determine the most effective approach.
   - Data Augmentation: Enhanced model robustness by introducing noise and variability into the dataset.
   - Real-World Testing: Assessed models on images captured from real-world images using Teachable Machine.
-  - [(https://github.com/simrenbasra/Sign_Lingual)](#)
+  - [https://github.com/simrenbasra/Sign_Lingual](#)
 
 ### [Project 2: OLS Regression](#)
 - **Description**:  Implemented an Ordinary Least Squares (OLS) regression model to predict price of cars. Includes data preprocessing, model building and performance evaluation.
@@ -25,7 +25,7 @@ Welcome to my GitHub profile!
 - **Highlights**:
   - Using classess I built to perform model building and data preprocessing for OLS regression.
   - Exploring effects of PCA 
-  - [(https://github.com/simrenbasra/OLS_Regression)](#)
+  - [https://github.com/simrenbasra/OLS_Regression](#)
 
 ## 🛠 Skills
 - **Programming Languages**: Python, SQL
@@ -33,7 +33,7 @@ Welcome to my GitHub profile!
 - **Data Visualization**: Tableau
 
 ## 🌐 Connect with Me
-- **LinkedIn**:[(https://www.linkedin.com/in/simrenbasra/)](#)
+- **LinkedIn**:[https://www.linkedin.com/in/simrenbasra/](#)
 - **Email**: [simrenbasra@gmail.com](#)
 
 Feel free to explore my projects and reach out if you’d like to discuss opportunities or collaborate!
