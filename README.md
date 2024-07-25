@@ -33,7 +33,7 @@ Welcome to my GitHub profile!
 - **Data Visualization**: Tableau
 
 ## 🌐 Connect with Me
-- **LinkedIn**:(https://www.linkedin.com/in/simrenbasra/)
+- **LinkedIn**:[Simren Basra](https://www.linkedin.com/in/simrenbasra/)
 - **Email**: simrenbasra@gmail.com
 
 Feel free to explore my projects and reach out if you’d like to discuss opportunities or collaborate!
