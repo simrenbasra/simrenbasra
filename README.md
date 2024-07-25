@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! 
 
 I’m passionate about data science and love diving into data to uncover insights and tackle challenging problems.
-I work with statistical analysis, machine learning and data visualization techniques. Check out my projects to see how I’m using these skills!
+I work with statistical analysis, machine learning and data visualisation techniques. Check out my projects to see how I’m using these skills!
 
 ## 🚀 About Me
 - 🎓 **Education**: Bachelors Computer Science from University of Sheffield.
