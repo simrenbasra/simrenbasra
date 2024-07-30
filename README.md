@@ -6,9 +6,9 @@ I’m passionate about data science and love diving into data to uncover insight
 I work with statistical analysis, machine learning and data visualisation techniques. Check out my projects to see how I’m using these skills!
 
 ## 🚀 About Me
-- 🎓 **Education**: Bachelors in Computer Science from University of Sheffield.
-- 💼 **Experience**: Software Engineer/Consultant in FinTech.
-- 🔭 **Current Focus**: Working on a timeseries project using ARIMA and SARIMAX.
+- 🎓 **Education**: Bachelors in Computer Science from University of Sheffield, BrainStation Data Science Diploma
+- 💼 **Experience**: Four years experience as a Software Developer Consultant in FinTech.
+- 🔭 **Current Focus**: Working on a timeseries project regrading share prices for Microsoft.
 
 ## 🔍 Projects
 
