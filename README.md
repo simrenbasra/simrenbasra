@@ -8,7 +8,7 @@ I work with statistical analysis, machine learning and data visualisation techni
 ## 🚀 About Me
 - 🎓 **Education**: Bachelors in Computer Science and AI from University of Sheffield, BrainStation Data Science Diploma
 - 💼 **Experience**: Four years experience as a Software Developer Consultant in FinTech.
-- 🔭 **Current Focus**: Working on a timeseries project regrading share prices for Microsoft.
+- 🔭 **Current Focus**: Working on a timeseries project regrading Microsoft share prices.
 
 ## 🔍 Projects
 
