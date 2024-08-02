@@ -10,6 +10,15 @@ I work with statistical analysis, machine learning and data visualisation techni
 - 💼 **Experience**: Four years experience as a Software Developer Consultant in FinTech.
 - 🔭 **Current Focus**: Working on a timeseries project regrading Microsoft share prices.
 
+## 📝 Blog - Simy's Data Bytes
+
+- **Description:** A blog where I share my journey and insights into data science. This blog features tutorials, personal projects and articles on various data science topics.
+- **Highlights:**
+  - Tutorials: Step-by-step guides on data science concepts and techniques.
+  - Project Showcases: Detailed write-ups of personal projects.
+  - Insights & Reflections: Analysis and commentary on data trends and topics.
+  - [Link to my blog](https://simrenbasra.github.io/simys-blog/)
+
 ## 🔍 Projects
 
 ### [Project 1: Sign-Lingual](#)
