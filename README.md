@@ -35,7 +35,7 @@ I work with statistical analysis, machine learning and data visualisation techni
 - **Description**:  Implemented an Ordinary Least Squares (OLS) regression model to predict price of cars. Includes data preprocessing, model building and performance evaluation.
 - **Technologies**: Python, pandas, statsmodels, matplotlib, seaborn.
 - **Highlights**:
-  - Using classess I built to perform model building and data preprocessing for OLS regression.
+  - Using classes I built to perform model building and data preprocessing for OLS regression.
   - Exploring effects of PCA 
   - [Link to OLS_Regression project repository](https://github.com/simrenbasra/OLS_Regression)
     
