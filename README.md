@@ -10,7 +10,7 @@ I work with statistical analysis, machine learning and data visualisation techni
 - 💼 **Experience**: Four years experience as a Software Developer Consultant in FinTech.
 - 🔭 **Current Focus**: Working on a timeseries project regrading Microsoft share prices.
 
-## 📝 Blog - Simy's Data Bytes
+## 📝 Blog
 
 - **Description:** A blog where I share my journey and insights into data science. This blog features tutorials, personal projects and articles on various data science topics.
 - **Highlights:**
