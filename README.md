@@ -31,7 +31,16 @@ I work with statistical analysis, machine learning and data visualisation techni
   - Real-World Testing: Assessed models on images captured from real-world images using Teachable Machine.
   - [Link to Sign-Lingual project repository](https://github.com/simrenbasra/Sign_Lingual)
 
-### [Project 2: OLS Regression](#)
+### [Project 2: TimeSeries Forecasting of Microsoft Stock](#)
+- **Description**: Developed a timeseries forecasting model for Microsoft stock prices using both baseline and advanced methods. The project includes data preprocessing, model implementation and evaluation using timeseries cross-validation.
+- **Technologies**: Python, pandas, statsmodels, pmdarima, matplotlib, seaborn, scikit-learn.
+- **Highlights**:
+  - Applied multiple forecasting models from baseline methods to exponential smoothing models to more advanced models like ARIMA.
+  - Incorporated exogenous variables such as interest rates and trading volume into the SARIMAX model.
+  - Used timeseries cross-validation to evaluate model performance.
+  - [Link to TimeSeries project repository](https://github.com/simrenbasra/timeseries))
+
+### [Project 3: OLS Regression](#)
 - **Description**:  Implemented an Ordinary Least Squares (OLS) regression model to predict price of cars. Includes data preprocessing, model building and performance evaluation.
 - **Technologies**: Python, pandas, statsmodels, matplotlib, seaborn.
 - **Highlights**:
