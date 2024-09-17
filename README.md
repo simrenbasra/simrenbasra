@@ -38,7 +38,7 @@ I work with statistical analysis, machine learning and data visualisation techni
   - Applied multiple forecasting models from baseline methods to exponential smoothing models to more advanced models like ARIMA.
   - Incorporated exogenous variables such as interest rates and trading volume into the SARIMAX model.
   - Used timeseries cross-validation to evaluate model performance.
-  - [Link to TimeSeries project repository](https://github.com/simrenbasra/timeseries))
+  - [Link to TimeSeries project repository](https://github.com/simrenbasra/timeseries)
 
 ### [Project 3: OLS Regression](#)
 - **Description**:  Implemented an Ordinary Least Squares (OLS) regression model to predict price of cars. Includes data preprocessing, model building and performance evaluation.
