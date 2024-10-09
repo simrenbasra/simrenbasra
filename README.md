@@ -21,7 +21,7 @@ I work with statistical analysis, machine learning and data visualisation techni
 
 ## 🔍 Projects
 
-### [Project 1: Sign-Lingual](#)
+### [Project 1: Sign-Lingual - ASL Machine Learning Interpreter](#)
 - **Description**: Developed a machine learning interpreter for American Sign Language (ASL). The project involves training and evaluating various models including Logistic Regression (with and without feature extraction), CNNs and Transfer Learning approaches like VGG-16 and ResNet-50, using both the MNIST dataset and real-world images.
 - **Technologies**: Python, TensorFlow, Keras, scikit-learn, Streamlit.
 - **Highlights**:
@@ -40,7 +40,7 @@ I work with statistical analysis, machine learning and data visualisation techni
   - Used timeseries cross-validation to evaluate model performance.
   - [Link to TimeSeries project repository](https://github.com/simrenbasra/timeseries)
 
-### [Project 3: Sound-Decisions: Headphone Recommender](#)
+### [Project 3: Sound-Decisions - Headphone Recommender](#)
 - **Description**: Developed a hybrid recommender system for headphones using scraped data from Amazon. The recommender system uses both content-based and collaborative filtering approaches to provide personalised headphone recommendations.
 - **Technologies**: Python, pandas, statsmodels, matplotlib, seaborn, scikit-learn, Streamlit
 - **Highlights**:
