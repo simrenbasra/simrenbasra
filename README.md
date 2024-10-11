@@ -1,6 +1,6 @@
 ## Hi there, I'm Simren! 👋
 
-Welcome to my GitHub profile! 
+Welcome to my GitHub! 
 
 I’m passionate about data science and love diving into data to uncover insights and tackle challenging problems.
 I work with statistical analysis, machine learning and data visualisation techniques. Check out my projects to see how I’m using these skills!
