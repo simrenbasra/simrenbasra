@@ -12,12 +12,8 @@ I work with statistical analysis, machine learning and data visualisation techni
 
 ## 📝 Blog
 
-- **Description:** A blog where I share my journey and insights into data science. This blog features tutorials, personal projects and articles on various data science topics.
-- **Highlights:**
-  - Tutorials: Step-by-step guides on data science concepts and techniques.
-  - Project Showcases: Detailed write-ups of personal projects.
-  - Insights & Reflections: Analysis and commentary on data trends and topics.
-  - [Link to my blog](https://simrenbasra.github.io/simys-blog/)
+- **Description:** A blog where I share my journey and insights into data science. This blog features personal projects and articles on various data science topics.
+- [**Link to my blog**](https://simrenbasra.github.io/simys-blog/)
 
 ## 🔍 Projects
 
