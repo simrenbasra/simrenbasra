@@ -8,7 +8,7 @@ I work with statistical analysis, machine learning and data visualisation techni
 ## 🚀 About Me
 - 🎓 **Education**: Bachelors in Computer Science and AI from University of Sheffield, BrainStation Data Science Diploma
 - 💼 **Experience**: Over four years experience as a Software Developer Consultant in FinTech.
-- 🔭 **Current Focus**: Training an agent using reinforcement learning techniques for a custom environment.
+- 🔭 **Current Focus**: LLM Training 
 
 ## 📝 Blog
 
