@@ -17,7 +17,7 @@ I work with statistical analysis, machine learning and data visualisation techni
 
 ## 🔍 Projects
 
-### [Project 1: Sign-Lingual - ASL Machine Learning Interpreter](#)
+### [Project 1: Sign-Lingual - ASL Machine Learning Interpreter](https://github.com/simrenbasra/Sign_Lingual)
 - **Description**: Developed a machine learning interpreter for American Sign Language (ASL). The project involves training and evaluating various models including Logistic Regression (with and without feature extraction), CNNs and Transfer Learning approaches like VGG-16 and ResNet-50, using both the MNIST dataset and real-world images.
 - **Technologies**: Python, TensorFlow, Keras, scikit-learn, Streamlit.
 - **Highlights**:
@@ -27,7 +27,7 @@ I work with statistical analysis, machine learning and data visualisation techni
   - Real-World Testing: Assessed models on images captured from real-world images using Teachable Machine.
   - [Link to Sign-Lingual project repository](https://github.com/simrenbasra/Sign_Lingual)
 
-### [Project 2: TimeSeries Forecasting of Microsoft Stock](#)
+### [Project 2: TimeSeries Forecasting of Microsoft Stock](https://github.com/simrenbasra/timeseries)
 - **Description**: Developed a timeseries forecasting model for Microsoft stock prices using both baseline and advanced methods. The project includes data preprocessing, model implementation and evaluation using timeseries cross-validation.
 - **Technologies**: Python, pandas, statsmodels, pmdarima, matplotlib, seaborn, scikit-learn.
 - **Highlights**:
@@ -36,7 +36,7 @@ I work with statistical analysis, machine learning and data visualisation techni
   - Used timeseries cross-validation to evaluate model performance.
   - [Link to TimeSeries project repository](https://github.com/simrenbasra/timeseries)
 
-### [Project 3: Sound-Decisions - Headphone Recommender](#)
+### [Project 3: Sound-Decisions - Headphone Recommender](https://github.com/simrenbasra/sound-decisions)
 - **Description**: Developed a hybrid recommender system for headphones using scraped data from Amazon. The recommender system uses both content-based and collaborative filtering approaches to provide personalised headphone recommendations.
 - **Technologies**: Python, pandas, statsmodels, matplotlib, seaborn, scikit-learn, Streamlit
 - **Highlights**:
@@ -45,8 +45,20 @@ I work with statistical analysis, machine learning and data visualisation techni
   - Designed and implemented a hybrid recommender system that combines content-based and collaborative filtering appraoches.
   - Developed a Streamlit app, allowing users to input their preferences and get tailored headphone recommendations.
   - [Link to Sound-Decisions project repository](https://github.com/simrenbasra/sound-decisions)
+
+### [Project 4: Trick or ReTreat - Custom Reinforcement Learning](#)
+- **Description:** Developed a custom environment using Open AI's Gymnasium Library. Explored different training algorithms, including Q-learning and Deep Q-networks.
+- **Technologies:** Python, PyGame, OpenAI Gymnasium, Stable Baselines 3
+- **Highlights:**
+  - Explored Open AI's Gymnasium and Stable Baselines 3 using the predefined Lunar Lander environment.
+  - Progressed to building a custom Halloween-themed environment in an iterative approach:
+      - _Phase 1:_ Simple Environment with a single reward.
+      - _Phase 2:_ Intermediate Environment with a mix of static rewards and penalties.
+      - _Phase 3:_ Final Environment, where penalties are positioned randomly at the start of each episode.
+  - Built and trained the agent using the Q-learning algorithm.
+  - Explored Deep Q-Networks to cope with the complexities of the final environment
     
-### [Project 4: OLS Regression](#)
+### [Project 5: OLS Regression](https://github.com/simrenbasra/OLS_Regression)
 - **Description**:  Implemented an Ordinary Least Squares (OLS) regression model to predict price of cars. Includes data preprocessing, model building and performance evaluation.
 - **Technologies**: Python, pandas, statsmodels, matplotlib, seaborn.
 - **Highlights**:
