@@ -5,17 +5,17 @@ Welcome to my GitHub!
 I’m passionate about data science and love diving into data to uncover insights and tackle challenging problems.
 I work with statistical analysis, machine learning and data visualisation techniques. Check out my projects to see how I’m using these skills!
 
-## 🚀 About Me
+## 🧑 About Me
 - 🎓 **Education**: Bachelors in Computer Science and AI from University of Sheffield, BrainStation Data Science Diploma
 - 💼 **Experience**: Over four years experience as a Software Developer Consultant in FinTech.
-- 🔭 **Current Focus**: LLM Training 
+- 🔍 **Current Focus**: LLM Training 
 
 ## 📝 Blog
 
 - **Description:** A blog where I share my journey and insights into data science. This blog features personal projects and articles on various data science topics.
 - [**Link to my blog**](https://simrenbasra.github.io/simys-blog/)
 
-## 🔍 Projects
+## 📂 Projects
 
 ### [Project 1: Sign-Lingual - ASL Machine Learning Interpreter](https://github.com/simrenbasra/Sign_Lingual)
 - **Description**: Developed a machine learning interpreter for American Sign Language (ASL). The project involves training and evaluating various models including Logistic Regression (with and without feature extraction), CNNs and Transfer Learning approaches like VGG-16 and ResNet-50, using both the MNIST dataset and real-world images.
