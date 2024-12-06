@@ -46,7 +46,7 @@ I work with statistical analysis, machine learning and data visualisation techni
   - Developed a Streamlit app, allowing users to input their preferences and get tailored headphone recommendations.
   - [Link to Sound-Decisions project repository](https://github.com/simrenbasra/sound-decisions)
 
-### [Project 4: Trick or ReTreat - Custom Reinforcement Learning](#)
+### [Project 4: Trick or ReTreat - Custom Reinforcement Learning](https://github.com/simrenbasra/Trick_Or_ReTreat)
 - **Description:** Developed a custom environment using Open AI's Gymnasium Library. Explored different training algorithms, including Q-learning and Deep Q-networks.
 - **Technologies:** Python, PyGame, OpenAI Gymnasium, Stable Baselines 3
 - **Highlights:**
@@ -57,6 +57,7 @@ I work with statistical analysis, machine learning and data visualisation techni
       - _Phase 3:_ Final Environment, where penalties are positioned randomly at the start of each episode.
   - Built and trained the agent using the Q-learning algorithm.
   - Explored Deep Q-Networks to cope with the complexities of the final environment
+  - [Link to Trick or ReTreat project repository](https://github.com/simrenbasra/Trick_Or_ReTreat)
     
 ### [Project 5: OLS Regression](https://github.com/simrenbasra/OLS_Regression)
 - **Description**:  Implemented an Ordinary Least Squares (OLS) regression model to predict price of cars. Includes data preprocessing, model building and performance evaluation.
