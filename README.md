@@ -36,17 +36,7 @@ I work with statistical analysis, machine learning and data visualisation techni
   - Used timeseries cross-validation to evaluate model performance.
   - [Link to TimeSeries project repository](https://github.com/simrenbasra/timeseries)
 
-### [Project 3: Sound-Decisions - Headphone Recommender](https://github.com/simrenbasra/sound-decisions)
-- **Description**: Developed a hybrid recommender system for headphones using scraped data from Amazon. The recommender system uses both content-based and collaborative filtering approaches to provide personalised headphone recommendations.
-- **Technologies**: Python, pandas, statsmodels, matplotlib, seaborn, scikit-learn, Streamlit
-- **Highlights**:
-  - Performed web scraping on Amazon headphone prodcuts, only scraping data eligible by insepcting the robots.txt file.
-  - Carried out feature extraciton from product descriptions to enrich the dataset.
-  - Designed and implemented a hybrid recommender system that combines content-based and collaborative filtering appraoches.
-  - Developed a Streamlit app, allowing users to input their preferences and get tailored headphone recommendations.
-  - [Link to Sound-Decisions project repository](https://github.com/simrenbasra/sound-decisions)
-
-### [Project 4: Trick or ReTreat - Custom Reinforcement Learning](https://github.com/simrenbasra/Trick_Or_ReTreat)
+### [Project 3: Trick or ReTreat - Custom Reinforcement Learning](https://github.com/simrenbasra/Trick_Or_ReTreat)
 - **Description:** Developed a custom environment using Open AI's Gymnasium Library. Explored different training algorithms, including Q-learning and Deep Q-networks.
 - **Technologies:** Python, PyGame, OpenAI Gymnasium, Stable Baselines 3
 - **Highlights:**
@@ -58,6 +48,16 @@ I work with statistical analysis, machine learning and data visualisation techni
   - Built and trained the agent using the Q-learning algorithm.
   - Explored Deep Q-Networks to cope with the complexities of the final environment
   - [Link to Trick or ReTreat project repository](https://github.com/simrenbasra/Trick_Or_ReTreat)
+
+### [Project 4: Sound-Decisions - Headphone Recommender](https://github.com/simrenbasra/sound-decisions)
+- **Description**: Developed a hybrid recommender system for headphones using scraped data from Amazon. The recommender system uses both content-based and collaborative filtering approaches to provide personalised headphone recommendations.
+- **Technologies**: Python, pandas, statsmodels, matplotlib, seaborn, scikit-learn, Streamlit
+- **Highlights**:
+  - Performed web scraping on Amazon headphone prodcuts, only scraping data eligible by insepcting the robots.txt file.
+  - Carried out feature extraciton from product descriptions to enrich the dataset.
+  - Designed and implemented a hybrid recommender system that combines content-based and collaborative filtering appraoches.
+  - Developed a Streamlit app, allowing users to input their preferences and get tailored headphone recommendations.
+  - [Link to Sound-Decisions project repository](https://github.com/simrenbasra/sound-decisions)
     
 ### [Project 5: OLS Regression](https://github.com/simrenbasra/OLS_Regression)
 - **Description**:  Implemented an Ordinary Least Squares (OLS) regression model to predict price of cars. Includes data preprocessing, model building and performance evaluation.
