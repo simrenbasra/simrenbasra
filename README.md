@@ -10,7 +10,7 @@ I work with statistical analysis, machine learning and data visualisation techni
 - 💼 **Experience**: Over four years experience as a Software Developer Consultant in FinTech.
 - 🔍 **Current Focus**: LLMs - see development/project updates [here](https://simrenbasra.github.io/simys-blog/) 
 
-## 📝 [Blog](https://simrenbasra.github.io/simys-blog/)
+## 📝 Blog
 
 - **Description:** A blog where I share my journey and insights into data science. This blog features personal projects and articles on various data science topics.
 - [**Link to my blog**](https://simrenbasra.github.io/simys-blog/)
