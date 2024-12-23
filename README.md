@@ -48,7 +48,17 @@ I work with statistical analysis, machine learning and data visualisation techni
   - Explored Deep Q-Networks to cope with the complexities of the final environment
   - [Link to Trick or ReTreat project repository](https://github.com/simrenbasra/Trick_Or_ReTreat)
 
-### [Project 4: Sound-Decisions - Headphone Recommender](https://github.com/simrenbasra/sound-decisions)
+### [Project 4: 12 Days of Data - Prompt Engineering](https://github.com/simrenbasra/12_days_of_data)
+- **Description:** Using OpenAI’s GPT-4 model along with prompt engineering to generate personalised Christmas-themed short stories. The stories are tailored based on user inputs captured in Streamlit.
+- **Technologies:** Python, OpenAI’s GPT-4 API, Streamlit
+- **Highlights:**
+  - Gained hands-on experience with OpenAI’s GPT-4 API.
+  - Incorporated user inputs through Streamlit to create personalised story prompts.
+  - Developed logic where prompts are adjusted based on user inputs, such as character types, genres, themes and locations.
+  - Focused on fine-tuning prompts to improve quality of generated stories.
+  - [Link to 12 Days of Data project repository](https://github.com/simrenbasra/12_days_of_data)
+
+### [Project 5: Sound-Decisions - Headphone Recommender](https://github.com/simrenbasra/sound-decisions)
 - **Description**: Developed a hybrid recommender system for headphones using scraped data from Amazon. The recommender system uses both content-based and collaborative filtering approaches to provide personalised headphone recommendations.
 - **Technologies**: Python, pandas, statsmodels, matplotlib, seaborn, scikit-learn, Streamlit
 - **Highlights**:
@@ -58,7 +68,7 @@ I work with statistical analysis, machine learning and data visualisation techni
   - Developed a Streamlit app, allowing users to input their preferences and get tailored headphone recommendations.
   - [Link to Sound-Decisions project repository](https://github.com/simrenbasra/sound-decisions)
     
-### [Project 5: OLS Regression](https://github.com/simrenbasra/OLS_Regression)
+### [Project 6: OLS Regression](https://github.com/simrenbasra/OLS_Regression)
 - **Description**:  Implemented an Ordinary Least Squares (OLS) regression model to predict price of cars. Includes data preprocessing, model building and performance evaluation.
 - **Technologies**: Python, pandas, statsmodels, matplotlib, seaborn.
 - **Highlights**:
