@@ -60,7 +60,7 @@ I work with statistical analysis, machine learning and data visualisation techni
 
 ### [Project 5: Sound-Decisions - Headphone Recommender](https://github.com/simrenbasra/sound-decisions)
 - **Description**: Developed a hybrid recommender system for headphones using scraped data from Amazon. The recommender system uses both content-based and collaborative filtering approaches to provide personalised headphone recommendations.
-- **Technologies**: Python, pandas, statsmodels, matplotlib, seaborn, scikit-learn, Streamlit
+- **Technologies**: Python, Pandas, Numpy, MatPlotLib, Streamlit, Git, SpaCy, BeautifulSoup4, Tableau.
 - **Highlights**:
   - Performed web scraping on Amazon headphone prodcuts, only scraping data eligible by insepcting the robots.txt file.
   - Carried out feature extraciton from product descriptions to enrich the dataset.
