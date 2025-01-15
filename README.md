@@ -10,7 +10,7 @@ I work with statistical analysis, machine learning and data visualisation techni
 - 💼 **Experience**: Over four years experience as a Software Developer Consultant in FinTech.
 - 🔍 **Current Focus**: Email Clustering and Classification using the Enron Dataset
 
-## 📝 Blog
+## 📝 [Blog](https://simrenbasra.github.io/simys-blog/)
 - **Description:** A blog where I share my journey and insights into data science. This blog features personal projects and articles on various data science topics.
 - [**Link to my blog**](https://simrenbasra.github.io/simys-blog/)
 
