@@ -88,5 +88,5 @@ Check out my projects to see how I’m using these skills!
 
 ## 🌐 Connect with Me
 - **LinkedIn**: [Simren Basra](https://www.linkedin.com/in/simrenbasra/)
-- 
+
 Feel free to explore my projects and reach out if you’d like to discuss opportunities or collaborate!
