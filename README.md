@@ -3,7 +3,6 @@
 Welcome to my GitHub! 
 
 I’m passionate about data science and love diving into data to uncover insights and tackle challenging problems.
-
 I work with statistical analysis, machine learning and data visualisation techniques. 
 
 Check out my projects to see how I’m using these skills!
@@ -11,9 +10,7 @@ Check out my projects to see how I’m using these skills!
 ## 🧑 About Me
 
 - 🎓 **Education**: Bachelors in Computer Science and AI from University of Sheffield, BrainStation Data Science Diploma
-  
 - 💼 **Experience**: Over four years experience as a Software Developer Consultant in FinTech.
-  
 - 🔍 **Current Focus**: NLP using the Enron Dataset
 
 ## 📝 Blog
