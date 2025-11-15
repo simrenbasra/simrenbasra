@@ -19,6 +19,12 @@ Check out my projects to see how I’m using these skills!
   
 - [**Link to my blog**](https://simrenbasra.github.io/simys-blog/)
 
+## 📬 Newsletter
+
+- **Description:** A newsletter where I break down AI’s foundational concepts step by step.
+
+-  [**Link to my Substack**](https://substack.com/@simybasra)
+  
 ## 📂 Projects
 
 ### [Project 1: Sign-Lingual - ASL Machine Learning Interpreter](https://github.com/simrenbasra/Sign_Lingual)
