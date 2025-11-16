@@ -59,9 +59,9 @@ Check out my projects to see how I’m using these skills!
   - Explored Deep Q-Networks to cope with the complexities of the final environment
   - [Link to Trick or ReTreat project repository](https://github.com/simrenbasra/Trick_Or_ReTreat)
 
-### [Project 4: Email Genie – Semantic Search on the Enron Email Dataset](https://github.com/simrenbasra/Email_Genie)
+### [Project 4: Email Genie - Semantic Search on the Enron Email Dataset](https://github.com/simrenbasra/Email_Genie)
 
-- **Description**: End-to-end semantic search app for the Enron email dataset. Includes data cleaning, embedding generation with Sentence Transformers, FAISS vector indexing and a web interface for natural-language search over ~30,000 emails.
+- **Description**: End-to-end semantic search app for the Enron email dataset. Includes data cleaning, embedding generation with Sentence Transformers, FAISS vector indexing and a web interface for natural language search over ~30,000 emails.
 - **Technologies:** Python, Sentence Transformers, pandas, scikit-learn, spaCy, BeautifulSoup, Flask, OpenAI
 - **Highlights:**
   - Data Cleaning: Extracted sender, receiver, subject, and cleaned email body; removed HTML, signatures, disclaimers and other noise.
