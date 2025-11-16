@@ -11,7 +11,7 @@ Check out my projects to see how I’m using these skills!
 
 - 🎓 **Education**: Bachelors in Computer Science and AI from University of Sheffield, BrainStation Data Science Diploma
 - 💼 **Experience**: Over four years experience as a Software Developer Consultant in FinTech.
-- 🔍 **Current Focus**: NLP using the Enron Dataset
+- 🔍 **Current Focus**: Brainstorming Ideas 🤔
 
 ## 📝 Blog
 
@@ -59,7 +59,19 @@ Check out my projects to see how I’m using these skills!
   - Explored Deep Q-Networks to cope with the complexities of the final environment
   - [Link to Trick or ReTreat project repository](https://github.com/simrenbasra/Trick_Or_ReTreat)
 
-### [Project 4: 12 Days of Data - Prompt Engineering](https://github.com/simrenbasra/12_days_of_data)
+### [Project 4: Email Genie – Semantic Search on the Enron Email Dataset](https://github.com/simrenbasra/Email_Genie)
+
+- **Description**: End-to-end semantic search app for the Enron email dataset. Includes data cleaning, embedding generation with Sentence Transformers, FAISS vector indexing and a web interface for natural-language search over ~30,000 emails.
+- **Technologies:** Python, Sentence Transformers, pandas, scikit-learn, spaCy, BeautifulSoup, Flask, OpenAI
+- **Highlights:**
+  - Data Cleaning: Extracted sender, receiver, subject, and cleaned email body; removed HTML, signatures, disclaimers and other noise.
+  - Embeddings: Compared Word2Vec, DistilBERT and Sentence Transformers. Sentence Transformers chosen as final embedding model.
+  - Classification: Explored different classification models on a limited labelled dataset.
+  - Vector Database: FAISS indexing for fast similarity search, experimented with different index types.
+  - Web App: Search interface returning top-k relevant emails with subject, summary and formatted body. Used GPT to expand query and sumamrise emails returned.
+  - [Link to Email Genie project repository](https://github.com/simrenbasra/Email_Genie)
+
+### [Project 5: 12 Days of Data - Prompt Engineering](https://github.com/simrenbasra/12_days_of_data)
 - **Description:** Using OpenAI’s GPT-4 model along with prompt engineering to generate personalised Christmas-themed short stories. The stories are tailored based on user inputs captured in Streamlit.
 - **Technologies:** Python, OpenAI’s GPT-4 API, Streamlit
 - **Highlights:**
@@ -69,7 +81,7 @@ Check out my projects to see how I’m using these skills!
   - Focused on fine-tuning prompts to improve quality of generated stories.
   - [Link to 12 Days of Data project repository](https://github.com/simrenbasra/12_days_of_data)
 
-### [Project 5: Sound-Decisions - Headphone Recommender](https://github.com/simrenbasra/sound-decisions)
+### [Project 6: Sound-Decisions - Headphone Recommender](https://github.com/simrenbasra/sound-decisions)
 - **Description**: Developed a hybrid recommender system for headphones using scraped data from Amazon. The recommender system uses both content-based and collaborative filtering approaches to provide personalised headphone recommendations.
 - **Technologies**: Python, Pandas, Numpy, MatPlotLib, Streamlit, Git, SpaCy, BeautifulSoup4, Tableau.
 - **Highlights**:
@@ -79,13 +91,14 @@ Check out my projects to see how I’m using these skills!
   - Developed a Streamlit app, allowing users to input their preferences and get tailored headphone recommendations.
   - [Link to Sound-Decisions project repository](https://github.com/simrenbasra/sound-decisions)
     
-### [Project 6: OLS Regression](https://github.com/simrenbasra/OLS_Regression)
+### [Project 7: OLS Regression](https://github.com/simrenbasra/OLS_Regression)
 - **Description**:  Implemented an Ordinary Least Squares (OLS) regression model to predict price of cars. Includes data preprocessing, model building and performance evaluation.
 - **Technologies**: Python, pandas, statsmodels, matplotlib, seaborn.
 - **Highlights**:
   - Using classes I built to perform model building and data preprocessing for OLS regression.
   - Exploring effects of PCA 
   - [Link to OLS_Regression project repository](https://github.com/simrenbasra/OLS_Regression)
+ 
     
 ## 🛠 Skills
 - **Programming Languages**: Python, SQL
