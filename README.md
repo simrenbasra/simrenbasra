@@ -11,7 +11,7 @@ Check out my projects to see how I’m using these skills!
 
 - 🎓 **Education**: Bachelors in Computer Science and AI from University of Sheffield, BrainStation Data Science Diploma
 - 💼 **Experience**: Over four years experience as a Software Developer Consultant in FinTech.
-- 🔍 **Current Focus**: SimBot - a chatbot for my blog
+- 🔍 **Current Focus**: SimBot - a custom chatbot for my blog
 
 ## 📝 Blog
 
