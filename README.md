@@ -18,12 +18,6 @@ Check out my projects to see how I’m using these skills!
 - **Description:** A blog where I share my journey and insights into data science. This blog features personal projects and articles on various data science topics.
   
 - [**Link to my blog**](https://simrenbasra.github.io/simys-blog/)
-
-## 📬 Newsletter
-
-- **Description:** A newsletter where I break down AI’s foundational concepts step by step.
-
--  [**Link to my Substack**](https://substack.com/@simybasra)
   
 ## 📂 Projects
 
